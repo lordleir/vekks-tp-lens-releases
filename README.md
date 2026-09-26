@@ -21,6 +21,7 @@ For questions, policy concerns, or takedown requests, please [open an issue](htt
 # Vekk's TP Lens
 
 Check Trading Post prices by hovering over an item, without searching for it manually.
+The interface and item names are English by default; Spanish and German are available in Nexus options.
 
 ## Features
 
